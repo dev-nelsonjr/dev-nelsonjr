@@ -1,11 +1,10 @@
-## Hi there 👋
+# Hi, I'm Nelson 👋
 
-Desenvolvedor de software em formação, com foco em JavaScript, React, React Native e Node.js.
+I'm a software developer focused on JavaScript and TypeScript.
 
-Gosto de aprender construindo aplicações completas e resolvendo problemas reais. Atualmente, estou aprofundando meus conhecimentos em APIs, bancos de dados, testes, Docker e cloud.
+I build web, mobile, and REST API applications using React, React Native, and Node.js. I have hands-on experience with relational databases, authentication, automated testing, Docker, push notifications, and cloud deployment.
 
-Busco uma oportunidade de estágio para evoluir como engenheiro de software e contribuir com projetos reais.
 
-## Tecnologias
+## Technologies
 
-JavaScript • React • React Native • Node.js • PostgreSQL • Prisma • Jest • Docker • Tailwind CSS • 
+JavaScript · TypeScript · React · React Native · Node.js · PostgreSQL · Prisma · Jest · Vitest · Docker
